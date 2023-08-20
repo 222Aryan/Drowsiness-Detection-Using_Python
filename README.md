@@ -50,17 +50,17 @@ Steps Performed:
 
 Step 1 – Take image as input from a camera.
 <div align="center">
-    <img src="https://github.com/222Aryan/Drowsiness-Detection-Using_Python/blob/main/Step%201%20Drowniness%20detector.jpg" alt="Alt Text" />
+    <img src="https://github.com/222Aryan/Drowsiness-Detection-Using_Python/blob/main/Step%201%20Drowsiness%20detector.jpg" alt="Alt Text" />
 </div>
 
 Step 2 – Detect the face  and eye in the image and create a Region of Interest (ROI) and feed it to the classifier.
 <div align="center">
-    <img src="https://github.com/222Aryan/Drowsiness-Detection-Using_Python/blob/main/Step%202%20Drowniness%20Detector.jpg" alt="Alt Text" />
+    <img src="https://github.com/222Aryan/Drowsiness-Detection-Using_Python/blob/main/Step%202%20Drowsiness%20detector.jpg" alt="Alt Text" />
 </div>
 
 Step 3 – Classifier will categorize whether eyes are open or closed and calculate Aspect Ratio to check whether the person is Drowsy or Not .
 <div align="center">
-    <img src="https://github.com/222Aryan/Drowsiness-Detection-Using_Python/blob/main/Step%203%20Drowniness%20detector.jpg" alt="Alt Text" />
+    <img src="https://github.com/222Aryan/Drowsiness-Detection-Using_Python/blob/main/Step%203%20Drowsiness%20detector.jpg" alt="Alt Text" />
 </div>
 
 File Required:
